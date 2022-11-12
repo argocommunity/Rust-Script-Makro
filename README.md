@@ -19,5 +19,5 @@
 - Discord: Argo#2048
 ## Rust Script-Makro
 - https://www.youtube.com/watch?v=MMPmSMf2k6E&ab_channel=Argo
-# Note: This is a paid program because it is not a virus. All free programs contain rats and keyloggers! Do not forget it.
+# Note: This is a paid program because it is not a virus. All free programs contain rats and keyloggers! Do not forget it..
 
