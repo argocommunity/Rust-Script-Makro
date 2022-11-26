@@ -15,8 +15,8 @@
 ## How can I buy?
 - You can come to Discord or buy from our website. Fully automatic delivery
 - Web : https://argocheat.com/
-- Discord: https://discord.gg/XczeKVHyFG
-- Discord: Argo#2048
+- Discord: https://discord.gg/R4z2NxQ4Va 
+- Discord: Argo#5750
 ## Rust Script-Makro
 - https://www.youtube.com/watch?v=MMPmSMf2k6E&ab_channel=Argo
 # Note: This is a paid program because it is not a virus. All free programs contain rats and keyloggers! Do not forget it..
